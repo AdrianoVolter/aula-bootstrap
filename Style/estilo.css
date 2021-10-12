@@ -1,0 +1,28 @@
+.navbar{
+    background-color: rgb(192, 226, 153);
+    font-size: 25px;
+    
+    margin-left:0; 
+    font-family: 'Times New Roman', Times, serif;
+}
+.quem-somos{
+    background-color: rgb(47, 200, 167);
+    font-size: 40px;
+
+    padding-top: 50px;
+  
+    
+
+}
+.nav-item{
+    margin-right: 10px;
+
+}    
+.logo{
+    border-radius: 50px;
+    
+
+}
+
+
+    
